@@ -5,4 +5,9 @@ body
 h4
 {
 	color: totmato;
+	font-weight: bold;
+}
+p
+{
+	color: blue;
 }
